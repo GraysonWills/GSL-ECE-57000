@@ -1,0 +1,13 @@
+torch
+torchvision
+onnx
+onnxruntime
+mlflow
+jiwer
+matplotlib
+numpy
+tqdm
+opencv-python
+pytorch-grad-cam
+PyYAML
+seaborn
